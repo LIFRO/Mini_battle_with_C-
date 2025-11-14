@@ -54,7 +54,7 @@ if (PersonStarted == true)
 {
     while (Fight == true)
     {
-        if (Person.Hp < 0)
+        if (Person.Hp < 0 || Person.Hp == 0)
         {
             Console.WriteLine("You lost!!");
             Fight = false;
@@ -62,7 +62,7 @@ if (PersonStarted == true)
         }
 
         Person.TakeTurn(Goblin);
-        if (Goblin.Hp < 0)
+        if (Goblin.Hp < 0 || Goblin.Hp == 0)
         {
             Console.WriteLine("You won!!!");
             Fight = false;
@@ -75,14 +75,14 @@ else
 {
     while(Fight == true)
     {
-        if (Goblin.Hp < 0)
+        if (Goblin.Hp < 0 || Goblin.Hp == 0)
         {
             Console.WriteLine("You won!!");
             Fight = false;
             break;
         }
         Goblin.TakeTurn(Person);
-        if (Person.Hp < 0)
+        if (Person.Hp < 0 || Person.Hp == 0)
         {
             Console.WriteLine("You lost");
             Fight = false;
