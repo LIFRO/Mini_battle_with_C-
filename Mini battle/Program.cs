@@ -13,7 +13,7 @@ Console.WriteLine("what should the name of your character be?");
 string? PlayerName = Console.ReadLine();
 if (PlayerName == null || PlayerName == "")
 {
-    PlayerName = "Gary";
+    PlayerName = "Why do java developers wear glasses? \n Because they dont C#";
 }
 
 while (NoCharacter == true)
