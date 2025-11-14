@@ -1,0 +1,15 @@
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\bin\Debug\net9.0\Mini battle.exe
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\bin\Debug\net9.0\Mini battle.dll
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\obj\Debug\net9.0\Mini battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\obj\Debug\net9.0\Mini battle.AssemblyInfoInputs.cache
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\obj\Debug\net9.0\Mini battle.AssemblyInfo.cs
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\obj\Debug\net9.0\Mini battle.csproj.CoreCompileInputs.cache
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\obj\Debug\net9.0\Mini battle.sourcelink.json
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\obj\Debug\net9.0\Mini battle.dll
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\obj\Debug\net9.0\refint\Mini battle.dll
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\obj\Debug\net9.0\Mini battle.pdb
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\bin\Debug\net9.0\Mini battle.deps.json
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\bin\Debug\net9.0\Mini battle.runtimeconfig.json
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\bin\Debug\net9.0\Mini battle.pdb
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\obj\Debug\net9.0\Mini battle.genruntimeconfig.cache
+C:\Users\linuz\Documents\Skola yrkeshögskola\C#\Mini battle\Mini battle\obj\Debug\net9.0\ref\Mini battle.dll
